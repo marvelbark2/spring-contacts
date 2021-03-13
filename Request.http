@@ -1,0 +1,11 @@
+# GET http://localhost:8080/contacts
+
+POST http://localhost:8080/contact
+Content-Type: application/json
+
+{
+    "id": 5,
+    "name": "salim",
+    "email": "s@s.fr",
+    "telephone": "093933993939"
+}
